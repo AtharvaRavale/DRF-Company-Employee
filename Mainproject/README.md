@@ -36,6 +36,14 @@ PUT /api/v1/companies/<id>/ – Update a company
 
 DELETE /api/v1/companies/<id>/ – Delete a company
 
+![Screenshot](images/Companies.png)
+
+
+
+
+
+
+
 Employees
 GET /api/v1/employees/ – List all employees
 
@@ -46,3 +54,5 @@ GET /api/v1/employees/<id>/ – Retrieve an employee
 PUT /api/v1/employees/<id>/ – Update an employee
 
 DELETE /api/v1/employees/<id>/ – Delete an employee
+
+![Screenshot](images/Employees.png)
